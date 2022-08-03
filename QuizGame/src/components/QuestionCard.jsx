@@ -11,7 +11,6 @@ export default function QuestionCard({
     pickAnswer,
     correctAnswer,
     pickedAnswer
-
 }) {
   return (
     <div className='question-card'>
